@@ -3284,7 +3284,7 @@ province;red;green;blue;x;x
 3283;134;154;24;BTPRemoved19for116;x
 3284;227;148;90;Mezen;x
 3285;174;150;111;Nenetsia;x
-3286;210;57;151;BTPRemoved20for116;x
+3286;210;57;151;BTPRemoved20for116;x #used
 3287;105;225;204;Khazar Sea;x
 3288;66;230;232;Khvalyn Sea;x
 3289;59;182;183;Mazandaran Sea;x
@@ -10535,29 +10535,29 @@ province;red;green;blue;x;x
 10534;58;108;60;Tempelburg;x
 10535;63;117;64;Glückstadt;x
 10536;68;126;68;Hemse;x
-10537;3;8;155;IRreserved444;
-10538;3;8;156;IRreserved445;
-10539;3;8;156;IRreserved446;
-10540;3;8;156;IRreserved447;
-10541;3;8;156;IRreserved448;
-10542;3;8;156;IRreserved449;
-10543;3;8;156;IRreserved450;
-10544;3;8;156;IRreserved451;
-10545;3;8;156;IRreserved452;
-10546;3;8;156;IRreserved453;
-10547;3;8;156;IRreserved454;
-10548;3;8;156;IRreserved455;
-10549;3;8;156;IRreserved456;
-10550;3;8;156;IRreserved457;
-10551;3;8;156;IRreserved458;
-10552;3;8;156;IRreserved459;
-10553;73;135;72;IRreserved460;x
-10554;78;144;76;IRreserved461;x
-10555;83;153;80;IRreserved462;x
-10556;88;162;84;IRreserved463;x
-10557;93;171;88;IRreserved464;x
-10558;98;180;92;IRreserved465;x
-10559;103;189;96;IRreserved466;x
+10537;3;8;163;Versailles;;
+10538;220;220;100;Vienne;; #3010;220;220;100
+10539;73;135;72;Bresse;x
+10540;78;144;76;Jura;x
+10541;83;153;80;Arles;x
+10542;88;162;84;Orange;x
+10543;93;171;88;Carcassonne;x
+10544;98;180;92;IRreserved451;x
+10545;103;189;96;IRreserved452;x
+10546;3;8;164;IRreserved453;
+10547;3;8;165;IRreserved454;
+10548;3;8;166;IRreserved455;
+10549;3;8;167;IRreserved456;
+10550;3;8;168;IRreserved457;
+10551;3;8;169;IRreserved458;
+10552;3;8;170;IRreserved459;
+10553;3;8;171;IRreserved460;
+10554;3;8;172;IRreserved461;
+10555;3;8;173;IRreserved462;
+10556;3;8;174;IRreserved463;
+10557;3;8;175;IRreserved464;
+10558;3;8;176;IRreserved465;
+10559;3;8;177;IRreserved466;
 10560;3;8;178;IRreserved467;
 10561;3;8;179;IRreserved468;
 10562;3;8;180;IRreserved469;
@@ -10651,7 +10651,7 @@ province;red;green;blue;x;x
 10650;3;9;13;IRreserved557;
 10651;3;9;14;IRreserved558;
 10652;3;9;15;IRreserved559;
-10653;3;9;16;IRreserved560;#used for more diversity
+10653;210;57;151;IRreserved560;#changed this one
 10654;3;9;17;IRreserved561;
 10655;3;9;18;IRreserved562;
 10656;3;9;19;IRreserved563;
