@@ -10519,7 +10519,7 @@ province;red;green;blue;x;x
 10518;8;18;20;Strassburg;x
 10519;20;180;50;UpperElsass;x
 10520;13;27;24;Overmaas;x
-10521;18;36;28;IRreserved334;x
+10521;18;36;28;Chimay;x
 10522;155;154;255;Epinal;x
 10523;23;45;32;Sarrebourg;x
 10524;20;150;250;Saint-Pol;x
@@ -10542,10 +10542,10 @@ province;red;green;blue;x;x
 10541;83;153;80;Arles;x
 10542;88;162;84;Orange;x
 10543;93;171;88;Carcassonne;x
-10544;98;180;92;IRreserved451;x
-10545;103;189;96;IRreserved452;x
-10546;3;8;164;IRreserved453;
-10547;3;8;165;IRreserved454;
+10544;98;180;92;Hautes-Alpes;x
+10545;103;189;96;Saintogne;x
+10546;108;198;100;Gevaudan;x
+10547;3;8;165;Eu;x
 10548;3;8;166;IRreserved455;
 10549;3;8;167;IRreserved456;
 10550;3;8;168;IRreserved457;
